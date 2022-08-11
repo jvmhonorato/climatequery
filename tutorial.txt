@@ -1,0 +1,11 @@
+1: npx gitignore node
+
+2: npm init
+
+3: npm install -D typescript
+
+4: npm intall -D@types/node
+
+5: criar pasta src e test 
+
+6: criar tsconfig.json:   tsc --init
